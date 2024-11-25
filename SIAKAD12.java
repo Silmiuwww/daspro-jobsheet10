@@ -17,7 +17,7 @@ public class SIAKAD12 {
             System.out.println("Nilai rata-rata: " + totalPerSiswa/3);
         }
 
-        System.out.println("\n===================================");
+        System.out.println("===================================");
         System.out.println("Rata-rata Nilai setiap Mata Kuliah");
 
         for (int j = 0; j < 3; j++){
